@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Battery BDC Hardware Split P2.PrjPcb]
+   Generated File[Inverter.TXT]
+   Generated File[Inverter.LDP]
+   Generated File[Inverter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:24:42 On 11/05/2024
